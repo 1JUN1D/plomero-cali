@@ -367,7 +367,7 @@ function sendToWhatsapp(e) {
 *Mensaje:* ${message}`;
 
     // Número de WhatsApp del negocio (usar el mismo número de teléfono)
-    const whatsappNumber = '573214013144';
+    const whatsappNumber = '573215246739';
 
     // Crear el enlace de WhatsApp con el mensaje
     const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
